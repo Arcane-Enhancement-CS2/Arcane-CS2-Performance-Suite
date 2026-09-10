@@ -18,8 +18,7 @@ The enhancement tools within Arcane utilize sophisticated algorithms to analyze 
 Advanced customization options in Arcane allow players to fine-tune every aspect of their gaming experience, from visual settings that enhance visibility to audio configurations that improve spatial awareness. The Arcane enhancement suite includes proprietary technologies that reduce system overhead while maintaining the highest levels of game stability and performance consistency. This comprehensive approach makes Arcane the preferred choice for professional and aspiring competitive players seeking to maximize their performance in high-stakes gaming environments.
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKO2U9plSHyP5tyMdHk_kLHTl9D-mucEwWKlCoz9yMA&s=10
-"/>
+  <img src="https://digiseller2.mycdn.ink/imgwebp.ashx?idp=7506650&dc=790306284&w=576"/>
 </div>
 
 ---
